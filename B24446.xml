@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Humble declaration of the apprentices and other young men of the city of London who were petitioners for peace shewing the causes of their petitioning and the passages concerning it : together with a true copy of their petition as it was delivered to both Houses of Parliament disclaiming those in print which were with out their knowledge.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24446</idno><idno type="EEBO-CITATION">13047448</idno>
+  <idno type="VID">197923</idno>
+  <idno type="EEBO-PROQUEST">2240850628</idno>
+  
+            <idno type="STC">Wing H3407</idno>
+            <idno type="OCLC">13047448</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197923)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 266:E245, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Humble declaration of the apprentices and other young men of the city of London who were petitioners for peace shewing the causes of their petitioning and the passages concerning it : together with a true copy of their petition as it was delivered to both Houses of Parliament disclaiming those in print which were with out their knowledge.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  17th century --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:197923:1"/>
+            <pb n="3" facs="tcp:197923:1"/>
+            <head>An humble Declaration of the <hi>Apprentices,</hi> and other young men of the City of LONDON, who were Petitio<g ref="char:EOLhyphen"/>ners for PEACE, shewing the Causes of their Petitioning, and the passages concerning it: Together with a true Copy of their Petition, as it was delivered to both Houses of Parliament, disclaiming those in <hi>Print, which were without their knowledge.</hi>
+            </head>
+            <q>Nulla salus Bello, pacem te poscimus omnes.</q>
+            <p>
+               <seg rend="decorInit">W</seg>EE the Apprentices and other young men, in and about the Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> having lately ingaged our selves in a Petition for Peace, and thereunto subscribed, doe now, for the satisfaction of all, who are desirous for Peace, and to bee informed of the Truth of our proceedings, as also for the clearing our selves from those malicious calumnies, that either are, or shall bee cast upon us; humbly and truly informe, and declare to all the world, That that which first gave life and quickning to our undertaking of this Petition, was the glory of God, and the peace and happinesse of our King, Parliament, and Kingdome, and for no by-respect, or ill designe whatsoever.</p>
+            <p>The Contents of which Petition follow <hi>verbatim, viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Right Honourable the Lords and Com<g ref="char:EOLhyphen"/>mons, in the High Court of PARLIAMENT now Assembled. The humble Petition of divers Apprentices, and other young men, <hi>in and about the City of</hi> London.</head>
+                        <opener>In most humble manner sheweth,</opener>
+                        <p>
+                           <hi>THat your former gratious acceptation of Petitions from persons of as mean quality at out selves, your late kinde imbracement of that petition from our Masters, and others of eminent quality; together with your constant endeavours for a pacification, (for which we present our humble thanks;) hath concited us, (though in regard of our present condition, not so much considerable) to addresse our selves also, in all humility, to this honourable assembly, (whom, we conceive, the onely meanes, under God, for our redresse,) beseeching you to persist (as you have honourably begun) in working a period of these ruinating distractions.</hi>
+                        </p>
+                        <pb n="4" facs="tcp:197923:2"/>
+                        <p>
+                           <hi>And though the present Calamity doth not so in mediately reflect upon your Petitionert: Yet wee (considering the losse of so many of our fellowes lives, the daily hazard the rest are exposed to; and fore<g ref="char:EOLhyphen"/>seing the face of our owne ruine in our Masters present cendition, as also prizing our Parents and Friends lives, and livelihoods, as deerly as our owne) hold our selves engaged by the Lawes of Con<g ref="char:EOLhyphen"/>science, and nature to be no lesse solicitous, for the bleeding condition of this Church and State; in re<g ref="char:EOLhyphen"/>gard (though Servants) we <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e Subjects, and humbly conceive our selves to be concerned berein.</hi>
+                        </p>
+                        <p>
+                           <hi>Wee come therefore (in the <gap reason="illegible" resp="#murp" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ll voice) to embowell our grievances and zealous desires before you; Not presuming to dictate to your <gap reason="illegible" resp="#murp" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> judgments, but humbly desiring you to pardon our boldnes in petitioning (and the erro<gap reason="illegible" resp="#murp" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> of our petition, if any be:)</hi>
+                        </p>
+                        <p>
+                           <hi>And unanimously, beseech on to consider these present distractions, the continuall and increasing violations of our religion by P pists and Sectaries, the breach of our knowne Lawes, the invasion of the Subjects Liberties, and generall decay of Trade.</hi>
+                        </p>
+                        <p>
+                           <hi>Reflecting also, with serious thoughts, upon these inevitable dangers, that now hover over our heads, ushered in by a Civill, unnaturall and bloody warre, whose effects are the impartiall destructions of Christians, the effusion of much innocent blood, the impoverishing and dis-peopling of the Kingdome, and exposing the body of the State to the mercilesse tyrannie of famine, sicknesse, and invasion; the fore-runners of an universall confusion:</hi>
+                        </p>
+                        <p>
+                           <hi>All which (better known to your apprehensions) wee humbly desire you to ponder, and to prosecute your pious intentions for peace; leaving no just way unattempted which may conduce to the set<g ref="char:EOLhyphen"/>tlement of these differences, that the undiscerning sword be not umpire to decide controversies of so neere concernment; Neither give audience to any incendiaries of this present warre, whose onely aime (wee feare) is to prey upon the lives and livings of his Majesties loyall Subjects; that the Gospell of peace need not be maintained by warre; but that the cemented joynts of the Church and State may hold firme the bond of unity, to the glory of God, the good of his Ma<g ref="char:EOLhyphen"/>jesty, the preservation of Parliaments, the onely happinesse of this kingdome, and enablement for a supply, for the necessities of our destressed brethren in Ireland.</hi>
+                        </p>
+                        <closer>
+                           <hi>And your Petitioners (as in all duty bound) shall daily pray for a blessing upon your Consultations.</hi> To which we have subscribed our hands and hearts; each ready to sacrifice his life for accomplishment thereof.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Of which Petition we dispersed severall Copies, for no other cause, but to procure Subscriptions with the more convenience. But (by what meanes wee know not) there was a very false Copy printed, and entituled ours, but so dif<g ref="char:EOLhyphen"/>ferent from the true Petition, both in matter and expressions, that (had it not been for the Title) we could not beleeve it had at all concerned us.</p>
+            <p>This we conceive was a great wrong to us, and did indeed discourage some of us, from our intended presenting of our Petition. But yet at last (we poy<g ref="char:EOLhyphen"/>sing both) preferred the glory of God, and Peace of this Church and State▪ before any thing that might discourage or dishearten us.</p>
+            <p>Whereupon all agreed upon Munday, <hi>Ian.</hi> 2. for our day of delivery, and accordingly set forth notes, desiring all the Subscribers to meet at the <hi>Piazzi</hi> in <hi>Covent Garden,</hi> in compleat civill habit, without Swords or Staves: Vpon which day, and at which place, there met a very considerable number of us, and (which in modesty we would not say of our selves, but that we are scandalously and falsly traduced by others) did demeane, and behave our selves very civill and orderly.</p>
+            <pb n="5" facs="tcp:197923:2"/>
+            <p>But it fell out, that without our knowledge or consent, there thrust in amongst us a Papist, which we being informed of, presently expelled him our Company, to avoid all cause of scandall upon our intentions.</p>
+            <p>After this comes one and began to sing a Ballad in dishonour to the Parlia<g ref="char:EOLhyphen"/>ment, but we presently discarded him also, with manifest expression of our great dislike of his doings.</p>
+            <p>This done, a Lieutenant to a Troop of Horse came to us, to know the intent of our Appearance, being before informed (as he told us) that we had Pistols about us, which was altogether false.</p>
+            <p>And then at the appointed time we repaired to <hi>Westminster,</hi> into the <hi>Pallace-yard,</hi> and were presently called before Captain <hi>Harvey</hi> (who attended there with his Troop) and by him (after some small discourse between us) twenty of us were admitted to the House of Lords; the rest (by his direction) imme<g ref="char:EOLhyphen"/>diately, and quietly, retreated to <hi>Whitehall</hi>-Gate, waiting the return of their Fellows.</p>
+            <p>We (comming to the House) were bold to acquaint the ever honoured Earl of <hi>Pembrook</hi> with our desires, who was pleased to impart them to the House: But by reason of a Conference of both Houses, (as we conceive) The Lords sent us a note by M. <hi>Maxwell</hi> to this effect,</p>
+            <p>
+               <hi>The Lords have formerly expressed their dislike of comming in multitudes to the Parliament, and they take notice of a great multitude that came this morning to<g ref="char:EOLhyphen"/>wards the Parliament: Which manner of comming with Petitions, they are yet unsa<g ref="char:EOLhyphen"/>tisfied withall. But if you will chufe a few of you, and come some other day, they will receive your Petition.</hi>
+            </p>
+            <p>Vpon this, in obedience to their Lordships directions, wee for that time de<g ref="char:EOLhyphen"/>parted, having appointed twenty of us to deliver our Petition on the next day; But we retiring homewards it was told us, That some of our company tarried at <hi>Whitehall</hi>-Gate, and stopped some of the Lords Coaches, Crying for Peace, Vpon this we wrote a note to Captain <hi>Harvy,</hi> subscribed by the twenty Deli<g ref="char:EOLhyphen"/>verers, and by three of them delivered to him, wherein we expressed our thanks for his curtesie shewed to us. And that wee were informed, that divers (who pretended to be of our minde) tarried behinde, wee knew not forwhat designe, and that if they did any action which was unlawfull, we disclaimed it; desiring to steere all our actions by the known Lawes of God and Man: and therefore if any thing were done to the contrary, we desired it might be suppressed, that it might not be a scandall to our Intentions, nor a hinderance to the Answer of our Petition.</p>
+            <p>Which we presented to the Captain, who did accept it, and approve of our carriage, and behaviour therein.</p>
+            <p>
+               <hi>This was the passage of that day.</hi>
+            </p>
+            <p>On <hi>Tuesday,</hi> the Twenty appointed to deliver the Petition, met, and went to the House with it, and while they were waiting at the doore for admittance,
+<pb n="6" facs="tcp:197923:3"/>there was one in a Ministers habit, did with much boldnesse and confidence (but withall as falsly, and causlesly affirme to some Lords of the House, that we in<g ref="char:EOLhyphen"/>tended to Plunder houses in <hi>Covent Garden,</hi> and that some of our company motioned it; which seemed very strange to us, knowing it to be altogether false. But yet upon some examination of the matter, it fell out that some such words had fallen from a Souldier (not of our company) perhaps incited to it, who (as we are credibly informed) is now in custody for it. And the informer here<g ref="char:EOLhyphen"/>of being convinced by his own conscience, and our arguments, did at last recant it, and desire our favourable opinion of him.</p>
+            <p>Some other falle suggestions were urged against us, and our Petition, by some either mis-informed, or ill-affected persons. But it pleased God to make them appeare to the Honourable House to be false and frivolous.</p>
+            <p>But after all these windes and stormes came a still voyce, and gave us admit<g ref="char:EOLhyphen"/>tance to the Lords, who being entred, delivered our Petition. And the Earl of <hi>Manchester</hi> declared to us, That the House was content to accept of our Peti<g ref="char:EOLhyphen"/>tion, and that they would give us their answer in due time.</p>
+            <p>From thence we went to the Honourable House of Commons, where wee found a most ready and favourable (and for ought we could conceive) a generall consent to accept of our Petition. And after reading thereof, M. <hi>Speaker</hi> did declare, That the pleasure of the House was to accept our Petition, and that they would take it into their serious consideration.</p>
+            <p>We returned our humble thanks, and departed.</p>
+            <p>We desire now to cleare our selves from many false aspersions that are cast upon us. Concerning the matter of our Petition, it being in substance for no<g ref="char:EOLhyphen"/>thing but peace, and aiming at the advancement of Gods glory, and the quiet of the Church and State, is (wee conceive good and lawfull, yet there want not those who speak against the very subject of it, <hi>Peace.</hi> But we wonder not much at them, they being such as are made compleat Souldiers on the sudden, and suck their whole subsistance, and fixe their hopes to repaire their breaches and decayes upon the ruine of others; fearing that the setling of our Trades, will be the decay of theirs. And to leave nothing unattempted which may discou<g ref="char:EOLhyphen"/>rage us and others, from prosecuting hereof, they have studied new Sophistry, to prove Peace to be no Peace; and under pretence, that we peace-Petitioners (as they mockingly call us doe oppose truth, they doe indeed beat downboth. Whereas any man that is not purblinde with prejudice and faction, may dis<g ref="char:EOLhyphen"/>cern that the Parliament, (the supreame Court of Judicature, and centre of Wisdome and Piety) will never consent to a Peace that shall war with Truth (they being twins of the Common-wealth, and unseparable.) And we should argue our selves very unadvised (which therein we hope we were not) to Petiti<g ref="char:EOLhyphen"/>on for a thing which no colour of Reason tels us we shall obtain.</p>
+            <p>And for those compleat Souldiers, whose very prayers (if they use any) are but alarmes to Battle, they must give us leave (though, wee hope, not without
+<pb n="7" facs="tcp:197923:3"/>ground, as they doe) to passe our censure upon them, and therefore we are bold to tell them, we think they lay their foundation for War on these two grounds which they make use of for Reasons, <hi>Dulce bellum inexpertis, &amp; dulce lucrum expertis.</hi> But the time may come that they may find it better to hearken to the blessed accents of Peace, then to have Bullets whisper destruction in their ears.</p>
+            <p>And though we for severall considerations were not (or not suffered) to bee of that number, who have exposed their persons to the fury of Warre, yet as they bleed outwardly, we bleed within for the distempers of this Church and State, and to shew our ardent zeale for the good of both, wee dare banish his soule, whose blood shares of so much cowardise, to retreat at thought of death, if it might conduce to a happy union of the King and Parliament, and the welfare of this late flourishing Nation.</p>
+            <p>Concerning our manner of delivery of our Petition, it was generally con<g ref="char:EOLhyphen"/>ceived to be (as we hope) civill, humble, and warrantable, shunning what in us lay, the appearance of tumults, mutinies, force, or violence, habiting our selves with no weapons offensive, nor defensive, but our innocence, and the upright<g ref="char:EOLhyphen"/>nesse of our designe, that all occasion of offence might be taken off.</p>
+            <p>Our number is not certainly known to us, but (though great) it is warranted (as we under correction conceive) both by precept and president; The Honou<g ref="char:EOLhyphen"/>rable M. <hi>Nathaniel Fynes</hi> (upon the like occasion) having delivered in answer to the Lord <hi>Digbies</hi> Speech, <hi>That a multitude being grieved may Petition, and that it is fit for all Subscribers to be present, lest their hands be supposed counterfeit.</hi> And the Lords and Commons were pleased to declare in their <hi>Remonstrance,</hi> of the 19 of <hi>May, That the number makes not an Assembly unlawfull, but when the end or manner of their carriage makes it so; And that they knew no reason, why it should be more faulty in the Citizens to come to the Parliament, then the resort of great numbers every day in the Terme, to the ordinary Courts of Iustice.</hi>
+            </p>
+            <p>We confesse (as some have objected) there are some Clerks and Journimen amongst us, but (being young men) they come under the notion of Petitioners. Besides, the one being generally Schollers, and seen in the Laws, giving great summes of money to their Masters, and mens sons of good rank, and living by Peace, and the other waiting for Peace, being newly come to provide for them<g ref="char:EOLhyphen"/>selves, we conceive are as much concerned herein as the rest.</p>
+            <p>Nor are we of the Ribaldry of the City (as some blackmouthes have uncha<g ref="char:EOLhyphen"/>ritably belched out against us: Yet in such a multitude (the City being ex<g ref="char:EOLhyphen"/>hausted of many of our fellows) it is not to be expected that all should be wise, learned, nor rich: Nor can we see any reason why a poore or illiterate man (be<g ref="char:EOLhyphen"/>ing (injured) should not seeke for redresse of his grievances, as well as a rich or learned.</p>
+            <p>And (though a multitude) we humbly conceive our selves no tumults; As for that miscarriage at <hi>White-hall-gate</hi> (if any were) though greater have been then that is reported to be: We gave no direction for doing it, nor doe wee commend, much lesse justifie it: But however we hope that particular Crimes,
+<pb n="8" facs="tcp:197923:4"/>shall not be imputed to a generall Cause, nor hinder a generall good: Nor if the major part of them that accompanied us, had committed any out-rages in regard they had divested themselves of their power, and laid it on the twenty, who are the representative body of the Petitioners, it would be but hard Justice to make them liable to the offences of others, nor ought it to bee (wee hope at least) in a candid, or but indifferent construction, a scandall upon the Petitio<g ref="char:EOLhyphen"/>ners, or crime upon the Petition.</p>
+            <p>Concerning our preposterous delivery of the Petitions, we desire the Hou<g ref="char:EOLhyphen"/>ses favourable construction, for in that we presented it first to the House of Lords, it was not for want of due honour or respect to the House of Com<g ref="char:EOLhyphen"/>mons, but our want of experience in Parliament courses; which we hope may satisfie that Honourable House.</p>
+            <p>
+               <hi>All which we thought good to declare, that the world may know, That endeavou<g ref="char:EOLhyphen"/>ring for Peace is a work acceptable (we hope to God, His Majesty, the Parliament, and Kingdome, though (we beleeve) some, not altogether for a good Conscience sake doe oppose us. But we esteeme their words as no slander, because they are nothing else▪ And that Posterity may know, That we, (by seeking Peace) are servants, as to pri<g ref="char:EOLhyphen"/>vate and particular men, so to the generall and publique good.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
